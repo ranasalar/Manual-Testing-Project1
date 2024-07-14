@@ -1,8 +1,17 @@
 # Project1 VWO
 Github link: https://github.com/ranasalar/Manual-Testing-Project1
-VWO
+What is VWO?
 Visual Website Optimizer Platform (VWO)
 VWO Testing helps you run powerful A/B, multi-variate, split, multi-device, and multi-page tests on your website to turn your visitors into paying customers.
+.
+
+The features and functionality of VWO.com that will be tested, such as the user interface, checkout process, search functionality, and mobile compatibility.
+The types of testing that will be performed, such as manual
+testing, automated testing, performance testing, and
+accessibility testing.
+1. Register (Sign Up)
+2. Login
+3. Login -> Dashboard
 .
 Login Page
 https://app.vwo.com/#/login
