@@ -1,4 +1,4 @@
-# Manual-Projects
+# Project1 VWO
 Github link: https://github.com/ranasalar/Manual-Testing-Project1
 VWO
 Visual Website Optimizer Platform (VWO)
