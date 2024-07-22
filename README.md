@@ -28,3 +28,7 @@ https://vwo.com/free-trial/?utm_medium=website&utm_source=login-page&utm_campaig
 After click on ‘Create a Free Trial Account’
 
 ![image](https://github.com/user-attachments/assets/2df6f351-88b2-4fab-8a0c-bf972235bf51)
+
+After Registered account this dashboard will show
+
+![download (3)](https://github.com/user-attachments/assets/c6def5c9-4b50-4ad7-9610-30e43be344c8)
