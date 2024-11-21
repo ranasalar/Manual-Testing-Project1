@@ -1,4 +1,7 @@
 # Project1 VWO
+
+***This is a website I used for practice. Most of the content in this project is available on the internet. This is my first project to start learning QA***
+
 Github link: https://github.com/ranasalar/Manual-Testing-Project1
 
 What is VWO?
