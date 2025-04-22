@@ -1,6 +1,6 @@
 # Project1 VWO
 
-***This is a website I used for practice. Most of the content in this project is available on the internet. This is my first project to start learning QA***
+***This is a website I used for Login/signup module and for 'Test plan', 'Test scenario', 'Test case' practice. This is my first project to start learning QA***
 
 Github link: https://github.com/ranasalar/Manual-Testing-Project1
 
