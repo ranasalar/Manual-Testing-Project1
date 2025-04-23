@@ -26,6 +26,7 @@ For the first time don't have account so click on "start a free trial" for sign 
 
 Sign Up Page
 https://vwo.com/free-trial/?utm_medium=website&utm_source=login-page&utm_campaign=mof_eg_loginpage
+Enter Email address
 
 ![image](https://github.com/user-attachments/assets/9d88331b-014b-4ff4-9e8f-005baf23fa3f)
 
